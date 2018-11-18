@@ -1,0 +1,14 @@
+D:\Видео\ОБУЧЕНИЕ\Разработчик игр\Обучение купленное 2018\C Sharp\Examples\AsteroidsGame\bin\Debug\AsteroidsGame.exe.config
+D:\Видео\ОБУЧЕНИЕ\Разработчик игр\Обучение купленное 2018\C Sharp\Examples\AsteroidsGame\bin\Debug\AsteroidsGame.exe
+D:\Видео\ОБУЧЕНИЕ\Разработчик игр\Обучение купленное 2018\C Sharp\Examples\AsteroidsGame\bin\Debug\AsteroidsGame.pdb
+D:\Видео\ОБУЧЕНИЕ\Разработчик игр\Обучение купленное 2018\C Sharp\Examples\AsteroidsGame\obj\Debug\AsteroidsGame.csprojAssemblyReference.cache
+D:\Видео\ОБУЧЕНИЕ\Разработчик игр\Обучение купленное 2018\C Sharp\Examples\AsteroidsGame\obj\Debug\AsteroidsGame.csproj.CoreCompileInputs.cache
+D:\Видео\ОБУЧЕНИЕ\Разработчик игр\Обучение купленное 2018\C Sharp\Examples\AsteroidsGame\obj\Debug\AsteroidsGame.exe
+D:\Видео\ОБУЧЕНИЕ\Разработчик игр\Обучение купленное 2018\C Sharp\Examples\AsteroidsGame\obj\Debug\AsteroidsGame.pdb
+D:\C#\Asteroids\AsteroidsGame\obj\Debug\AsteroidsGame.csprojAssemblyReference.cache
+D:\C#\Asteroids\AsteroidsGame\obj\Debug\AsteroidsGame.csproj.CoreCompileInputs.cache
+D:\C#\Asteroids\AsteroidsGame\obj\Debug\AsteroidsGame.exe
+D:\C#\Asteroids\AsteroidsGame\obj\Debug\AsteroidsGame.pdb
+D:\C#\Asteroids\AsteroidsGame\bin\Debug\AsteroidsGame.exe.config
+D:\C#\Asteroids\AsteroidsGame\bin\Debug\AsteroidsGame.exe
+D:\C#\Asteroids\AsteroidsGame\bin\Debug\AsteroidsGame.pdb
